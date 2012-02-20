@@ -1,1 +1,1 @@
-Demonstration of using BootStrap from twitter modified to have a Fixed-Fluid-Fixed column format with a Google Map in between.
+Demonstration of using BootStrap from twitter modified to have a Fixed-Fluid-Fixed column format with a Google Map in the middle column.  The right most column will contain what could be used as a details view for events contained within the cluster being hovered over.  The ids on the right details column can be clicked on to zoom to that event's location.
