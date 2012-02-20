@@ -1,0 +1,1 @@
+Demonstration of using BootStrap from twitter modified to have a Fixed-Fluid-Fixed column format with a Google Map in between.
