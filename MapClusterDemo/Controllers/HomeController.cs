@@ -11,7 +11,7 @@ namespace MapClusterDemo.Controllers
     {
         public ActionResult Index()
         {
-            return View("FixedFluid");
+            return View();
         }
 
         [HttpPost]
@@ -28,6 +28,7 @@ namespace MapClusterDemo.Controllers
                                 Longitude = random.Next(-124, -67),
                                 LocationId = n + 1
                             });
+
             return Json(new
             {
                 events
