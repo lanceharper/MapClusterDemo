@@ -1,0 +1,7 @@
+c:\dev\sandbox\MapClusterDemo\MapClusterDemo\bin\MapClusterDemo.dll
+c:\dev\sandbox\MapClusterDemo\MapClusterDemo\bin\MapClusterDemo.pdb
+c:\dev\sandbox\MapClusterDemo\MapClusterDemo\bin\EntityFramework.dll
+c:\dev\sandbox\MapClusterDemo\MapClusterDemo\bin\EntityFramework.xml
+c:\dev\sandbox\MapClusterDemo\MapClusterDemo\obj\Debug\ResolveAssemblyReference.cache
+c:\dev\sandbox\MapClusterDemo\MapClusterDemo\obj\Debug\MapClusterDemo.dll
+c:\dev\sandbox\MapClusterDemo\MapClusterDemo\obj\Debug\MapClusterDemo.pdb
